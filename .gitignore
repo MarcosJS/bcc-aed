@@ -1,0 +1,7 @@
+#Files or folders ignored
+
+#File
+*~
+#Folders
+build/
+
