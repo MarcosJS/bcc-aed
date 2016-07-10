@@ -1,0 +1,20 @@
+	-------- Gerênciador de Procedimentos Médicos(GPmed) ----------
+	 -------------------------------------------------------------
+	|                                                             |
+	|                                                             |
+	|                                                             |
+	|*Registros de procedimentos ----------> Digite 2             |
+	|*Consultar registro específico -------> Digite 3             |
+	|*Solicitações de médicamentos --------> Digite 4             |
+	|*Solicitação específica --------------> Digite 5             |
+	|*Consultar prontuário de paciente ----> Digite 6             |
+	|*Realizar registro de procedimento ---> Digite 7             |
+	|*Lista de pacientes atendidos --------> Digite 8             |
+	|*Consultar dados do paciente ---------> Digite 9             |
+	|                                                             |
+	|                                                             |
+	|                                                             |
+	|*Sair --------------------------------> Digite 0             |
+	|                                                             |
+	|             [Informe a opção para continuar!]               |
+	 -------------------------------------------------------------

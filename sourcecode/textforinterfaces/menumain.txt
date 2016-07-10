@@ -1,0 +1,17 @@
+	---------------------------- SISMed ---------------------------
+	 -------------------------------------------------------------
+	|                                                             |
+	|                                                             |
+	|                                                             |
+	|                                                             |
+	|*Para acessar o módulo GPlan ---------> Digite 2             |
+	|*Para acessar o módulo GPMed  --------> Digite 3             |
+	|*Para acessar o módulo GFarm ---------> Digite 4             |
+	|                                                             |
+	|                                                             |
+	|                                                             |
+	|                                                             |
+	|*Sair do sistema ---------------------> Digite 0             |
+	|                                                             |
+	|             [Informe a opção para continuar!]               |
+	 -------------------------------------------------------------
